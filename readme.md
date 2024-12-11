@@ -50,3 +50,7 @@ Additionally, the project is licensed under the provisions of the [GNU 3.0](http
 ## Data Source
 This project's database is built using the XML for the most recent version of the 
 PubMed Annual Baseline. https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/
+
+
+## .env and config.json
+These two files require an OpenAI compatible API endpoint as well as an API key for that service. In my building and testing I used the [LLM Factory](https://hub.ai.uky.edu/llm-factory/) developed by the Center for Applied AI at University of Kentucky.
