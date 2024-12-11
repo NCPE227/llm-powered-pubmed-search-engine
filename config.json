@@ -1,0 +1,7 @@
+{
+  "llm_api_key": "",
+  "llm_api_base": "",
+  "neo4j_uri": "neo4j://localhost:7687",
+  "neo4j_username": "neo4j",
+  "neo4j_password": "password"
+}
